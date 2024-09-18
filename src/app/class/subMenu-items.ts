@@ -14,7 +14,7 @@ export class subMenu{
 
     static menuListAcciones:Array<any>=[
        
-        {nombre:'COMPRAS',menus:[],icono:'shopping_cart', url:'',permiso:'CAJERO',permiso2:'ADMIN'},
+        {nombre:'COMPRAS',menus:[],icono:'shopping_cart', url:'prueba',permiso:'CAJERO',permiso2:'ADMIN'},
         {nombre:'VENTAS',menus:[],icono:'point_of_sale',url:'',permiso:'CAJERO',permiso1:'VENDEDOR',permiso2:'ADMIN'},
         {nombre:'CAJA',menus:[],icono:'monetization_on',url:'',permiso:'CAJERO',permiso2:'ADMIN'},
         {nombre:'INVENTARIO',menus:[],icono:'assignment',url:'',permiso:'CAJERO',permiso1:'VENDEDOR',permiso2:'ADMIN'},
